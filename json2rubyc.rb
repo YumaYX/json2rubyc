@@ -91,6 +91,7 @@ end
 
 def display_result(original_data, converted_data)
   puts "# Original Data Length: #{original_data.length}"
+  puts "# Original Data Class: #{original_data.class}"
   puts converted_data
 end
 
