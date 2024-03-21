@@ -1,0 +1,30 @@
+{
+  "data": {
+    "items": [
+      {
+        "id": 1,
+        "name": "Widget A",
+        "description": "A basic widget for testing purposes.",
+        "price": 10.99,
+        "quantity": 100,
+        "metadata": {
+          "created_at": "2024-03-20T08:00:00Z",
+          "updated_at": "2024-03-20T08:00:00Z"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Widget B",
+        "description": "An advanced widget with additional features.",
+        "price": 24.99,
+        "quantity": 50,
+        "metadata": {
+          "created_at": "2024-03-20T09:00:00Z",
+          "updated_at": "2024-03-20T09:30:00Z"
+        }
+      }
+    ],
+    "total_items": 2,
+    "total_price": 35.98
+  }
+}
